@@ -145,6 +145,29 @@ class UnorderedList:
         self.length -= 1
         return current.get_data()
 
+    def slice(self, start, stop):
+        current = self.head
+        found = False
+        slicing = []
+        while current is not None and not found:
+            if current.get_data() == start:
+                found = True
+                self.head = current
+            else:
+                current = current.get_next()
+        if found is False:
+            raise ValueError(f"There is no {start} element")
+        found = False
+        while current is not None and not found:
+            if current.get_data() == stop:
+                found = True
+            else:
+                slicing.append(current.get_data())
+                current = current.get_next()
+        if found is False:
+            raise ValueError(f"There is no {stop} element")
+        return slicing
+
 if __name__ == "__main__":
     my_list = UnorderedList()
     my_list.add("a")
