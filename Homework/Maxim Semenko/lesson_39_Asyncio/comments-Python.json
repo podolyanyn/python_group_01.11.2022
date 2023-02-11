@@ -1,0 +1,42 @@
+{
+    "1": [
+        "Hi there, from the /r/Python mods.\n\nWe have removed this post as it is not suited to the /r/Python subreddit proper, however it should be very appropriate for our sister subreddit /r/LearnPython or for the r/Python discord: https://discord.gg/python.\n\nThe reason for the removal is that /r/Python is dedicated to discussion of Python news, projects, uses and debates. It is not designed to act as Q&amp;A or FAQ board. The regular community is not a fan of \"how do I...\" questions, so you will not get the best responses over here.\n\nOn /r/LearnPython the community and the r/Python discord are actively expecting questions and are looking to help. You can expect far more understanding, encouraging and insightful responses over there. **No matter what level of question you have, if you are looking for help with Python, you should get good answers**. Make sure to check out the rules for both places.\n\nWarm regards, and best of luck with your Pythoneering!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Python) if you have any questions or concerns.*",
+        "2023-02-10 19:55"
+    ],
+    "2": [
+        "Yes, please. That'd be appreciated because I do not see any situation in my use case that would not be accurate, so if you're spotting something, please let me know.",
+        "2023-02-10 19:55"
+    ],
+    "3": [
+        "No. We have a special relationship and have gotten to know her very intimately.",
+        "2023-02-10 19:52"
+    ],
+    "4": [
+        "If we wrap this code with a function (as we usually do), well get a function, that occasionally mutates _some_ of the values of the items of the list, and returns the dict, which values are also implicitly reference that lists.\n\nSorry, it\u2019s hard to type python code from the mobile, I\u2019ll provide more detailed explanation later.",
+        "2023-02-10 19:52"
+    ],
+    "5": [
+        "Not sure why you think my comment was about camel case. It doesn't sound like implementing any of your suggestions would remove the \"stink of Java\", so it's hard to take them as suggestions in good faith.",
+        "2023-02-10 19:52"
+    ],
+    "6": [
+        "All three frameworks are amazing, and you will be fine picking anyone. But if you are starting, Flask should give you the best opportunity to learn and understand all choices related to your project. Flask is a micro-framework, which means the basic install has the minimum features to get your site running. As you grow your project, you have to decide ORM or not, how you handle user authentication, and so on. For example, Django will make many of those decisions for you, before you even need them. Good look!",
+        "2023-02-10 19:48"
+    ],
+    "7": [
+        "Sexist!",
+        "2023-02-10 19:48"
+    ],
+    "8": [
+        "I need to trust that some artificial assistant is writing logically sound code that does what I expect it to. Otherwise why would I bother using it Ill just write my own code",
+        "2023-02-10 19:48"
+    ],
+    "9": [
+        "My brother and I came from a family that ran a machine shop and both worked as mechanics (mine was short run in tuneups/oil changes, his in vicational school + dealerships). Both of us have long since transitioned to software and both found that the troubleshooting skills are similar. The ability to communicate what you found and how things work turns out to be a universal skill. Really, many skills transfer and we've both found it to be rewarding enough it's been a career for 20+ years in both cases.\n\nI've done both backend and frontend work and it really depends what appeals to you. Backend is more like working in a machine shop or doing transmission overhauls. You feel the accomplishment but it's not the sort of thing you show off to people or can see when you're done. Frontend/web/mobile can all be more visibly rewarding if that's the payoff you like. Hope that's some help.",
+        "2023-02-10 19:47"
+    ],
+    "10": [
+        "+1 for Starlite!\n\nFor a total newbie, the learning curve is a bit steeper than FastAPI, but Starlite is also more capable.  I\u2019ve been very impressed with the feature set, speed of development and the community behind it.",
+        "2023-02-10 19:46"
+    ]
+}
