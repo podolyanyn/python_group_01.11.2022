@@ -12,13 +12,11 @@ def subreddit_comments_to_txt(subreddit):
         request = requests.get(url, params={'subreddit': subreddit})
         return request.json()
 
-    count = 1
-    for comment in subreddit_comments(subreddit)['data']:
-        sep = ' '+'#'*50+' '
-        data = f'{sep}{count}{sep}\n{comment["body"]}\n\n'
+    for comment in subreddit_comments(subreddit)['data'][::-1]:
+        sep = ' '+'#'*20+' '
+        data = f'{sep}{comment["utc_datetime_str"]}{sep}\n{comment["body"]}\n\n'
         with open(f'{subreddit}.txt', 'a') as file:
             file.write(data)
-        count += 1
 
 
 if __name__ == '__main__':
