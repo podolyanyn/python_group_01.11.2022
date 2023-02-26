@@ -1,0 +1,42 @@
+{
+    "1": [
+        "\ud83e\udd26",
+        "2023-02-10 20:04"
+    ],
+    "2": [
+        "Lol ok but again why would I use it at all then if its going to consistently produce semi-complex code that maybe looks right on the surface but doesnt work as intended without me needing to double check it. Ill just write the code myself correctly",
+        "2023-02-10 20:03"
+    ],
+    "3": [
+        "You don\u2019t need to trust it. You need to review it carefully just as you should review your own code carefully!",
+        "2023-02-10 20:00"
+    ],
+    "4": [
+        "&gt;However, return statements could also be thought of as a sort of controlled goto and no one seems to have a problem with those.\n\nMultiple return statements inside of method (except parameters validation etc) are even worse than break statements.",
+        "2023-02-10 20:00"
+    ],
+    "5": [
+        "I\u2019ve been using it to some success. It provides me a kick-start and helps teach me things that would take me a while to google through. I do end up needing to ask it to debug itself, but it\u2019s definitely a value-add for me. I am beginner-intermediate level using python primarily for BI/Data Science and it has cut down on my googling big time. As long as the user knows it isn\u2019t complete work and needs to be checked, it can be a huge help.",
+        "2023-02-10 19:58"
+    ],
+    "6": [
+        "The documentation and trying to code &gt; then copy pasting shit",
+        "2023-02-10 19:57"
+    ],
+    "7": [
+        "This particular fix is part of a 5 year effort to make python 5 times faster. So its author definitely thinks it's possible. The faster cpython project has delivered good results in python 3.11 already and is the most promising attempt at making cpython faster I have seen so far.",
+        "2023-02-10 19:56"
+    ],
+    "8": [
+        "Hi there, from the /r/Python mods.\n\nWe have removed this post as it is not suited to the /r/Python subreddit proper, however it should be very appropriate for our sister subreddit /r/LearnPython or for the r/Python discord: https://discord.gg/python.\n\nThe reason for the removal is that /r/Python is dedicated to discussion of Python news, projects, uses and debates. It is not designed to act as Q&amp;A or FAQ board. The regular community is not a fan of \"how do I...\" questions, so you will not get the best responses over here.\n\nOn /r/LearnPython the community and the r/Python discord are actively expecting questions and are looking to help. You can expect far more understanding, encouraging and insightful responses over there. **No matter what level of question you have, if you are looking for help with Python, you should get good answers**. Make sure to check out the rules for both places.\n\nWarm regards, and best of luck with your Pythoneering!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Python) if you have any questions or concerns.*",
+        "2023-02-10 19:55"
+    ],
+    "9": [
+        "Yes, please. That'd be appreciated because I do not see any situation in my use case that would not be accurate, so if you're spotting something, please let me know.",
+        "2023-02-10 19:55"
+    ],
+    "10": [
+        "No. We have a special relationship and have gotten to know her very intimately.",
+        "2023-02-10 19:52"
+    ]
+}
