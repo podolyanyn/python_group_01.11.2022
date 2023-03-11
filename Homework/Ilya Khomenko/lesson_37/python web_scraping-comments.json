@@ -1,0 +1,42 @@
+{
+    "1": [
+        "Why?",
+        "2023-02-13 15:01"
+    ],
+    "2": [
+        "Pyautogui",
+        "2023-02-13 15:00"
+    ],
+    "3": [
+        "yeah might be",
+        "2023-02-13 14:56"
+    ],
+    "4": [
+        "Exactly, that's the purpose of library! Just `os.mkdir(\"some_index\")` and use `milli-py` to index/search your documents there. No external server needed.",
+        "2023-02-13 14:50"
+    ],
+    "5": [
+        "Just started to a course to get a cert 3 in I.T and the first assignment was to create a team randomiser as a way to learn both the basics of python and our classmates names.\n\nI finished the basic assignment to just randomise the names into groups of 3 but decided to change it to enable you to enter the names and the size of teams.\n\nOnce I finished that I decided to mess around with tkinter and now it\u2019s fully functional with a gui instead of the console.\n\nIt\u2019s kinda unintuitive and I can confidently say that any experienced programmer would vomit if they looked at my code but it works and that\u2019s all I could ask for",
+        "2023-02-13 14:48"
+    ],
+    "6": [
+        "Pytest is the most widely used Python testing framework, so I recommend looking into that.",
+        "2023-02-13 14:47"
+    ],
+    "7": [
+        "They only kill it if they're absolultey sure. Wouldn't that be obvious to you?\n\nI get email spam but it's like 1-2 messages in my spam folder that I check whenever I remember (weekly? monthly?) at any given time, not the pile of emails situation OP was alluding to.",
+        "2023-02-13 14:42"
+    ],
+    "8": [
+        "Looks very good.\n\nIs it possible to use this library inside a web framework like FastAPI without a separate deployment of Meilisearch?",
+        "2023-02-13 14:39"
+    ],
+    "9": [
+        "I don't know Ruby so \"irb\" doesn't mean anything to me. Python unit testing frameworks and a decent IDE (not sure if VS falls into that category) have all the features I need.",
+        "2023-02-13 14:39"
+    ],
+    "10": [
+        "I wouldn't want an email provider deleting or never delivering my emails without me being able to review what was filtered. I often get legitimate emails initially flagged as spam. Thus, the spam folder. Not sure what you think is dated about this approach.",
+        "2023-02-13 14:39"
+    ]
+}
